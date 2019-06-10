@@ -26,3 +26,15 @@ https://github.com/findconvergence/text-parser
 # RNN
 1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 2. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+# Pie chart
+Def make_autopct(values):
+    Def my_autopct(pct):
+        Total= sum(values)
+        Val = int(pct*total/100)+0.5)
+        Return '{p:.2f}% ({v:d})'.format(p=pct, v=Val)
+    Return my_autopct
+
+Df = data.sc.value_counts()
+Df.plot(kind='pie', legend=True, figsize=(7, 7), autopct=make_utopct(df))
