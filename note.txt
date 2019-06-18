@@ -38,3 +38,6 @@ Def make_autopct(values):
 
 Df = data.sc.value_counts()
 Df.plot(kind='pie', legend=True, figsize=(7, 7), autopct=make_utopct(df))
+
+# Chatbot using pytorch
+1. https://github.com/alexis-jacq/Pytorch-ChatBot/blob/master/train.py
