@@ -1,0 +1,21 @@
+## Machine Learning Tasks:
+
+Binary classification (churn prediction)
+Customer segmentation (clustering)
+Lifetime value forecasting (regression)
+Recommendation systems
+
+## Business Analytics:
+
+Customer behavior analysis
+Marketing campaign optimization
+Retention strategy development
+Risk assessment for customer attrition
+## Research Areas:
+
+E-commerce consumer behavior
+Digital engagement patterns
+Subscription service optimization
+Cross-channel marketing effectiveness
+
+dataset: https://storage.googleapis.com/kagglesdsdata/datasets/9011378/14140498/ecommerce_customer_churn_dataset.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20251219%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251219T054516Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=b064a6fdc9a9a2fbfa22d9a4b1746973d4635cd5a312e0c2cee4fa5c6dd3e051df2b9306dbd59f329656a8851511cd55bbf109a8b6a71a2522ccf0509098a712f5c67f05e49faeb4c5c4924b1c5fca541170b7879c5cbd095a2edcd280c45e10c94f0bcf439983a79b05d6b414f8417e61d1eeba8f057c9c7615be124faace219f8f2c33a374bb4b0f61c8fcf1fce8a4f74925d9659dd7ef67aab5fe30c65fe140d413721b17136c006a857f03b4e8f09d0c4e3ff0d8b34c31652e6493500fd40133374780f34f4d78dca9f24eae0f0edcc92346ce55f057fede3f6ed0a809212e5dda65722f588b1daf02036fdba398bc361217605149582b597903f7e79b04
